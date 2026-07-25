@@ -9,41 +9,25 @@ Currently, I'm a Break Through Tech AI Fellow exploring machine learning, data a
 
 **Languages:** Python, SQL
 
-**Data & Machine Learning:** pandas, NumPy, scikit-learn, matplotlib, seaborn, Jupyter Notebook
+**Data & Machine Learning:** pandas, NumPy, scikit-learn, matplotlib, seaborn, Jupyter
 
-**Databases & Systems:** Relational Databases, Database Design, Microsoft Access, PostgreSQL
+**Databases & Systems:** Relational Databases, Database Design, Microsoft Access, PostgreSQL, UML
 
-**Development Tools:** Git, GitHub, APIs, UML, Agile Methodologies
+**Tools:** Git, GitHub, APIs
 
-**Areas of Interest:** Software Engineering, Artificial Intelligence, Machine Learning, Cybersecurity, Data Analytics 
+**Interests:** Software Engineering, Artificial Intelligence, Machine Learning, Cybersecurity
 
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-### School Music Club Database Application
-Relational database application for a simulated 100+ member school music club management system.
+**School Music Club Database Application**  
+Relational database application for a simulated 100+ member organization using SQL, Microsoft Access, and VBA. Designed database structure, ER models, and user-facing forms.
 
-**Technologies:** SQL, Microsoft Access, VBA, Database Design
+**Information System Design for La Fortaleza Community Development Corporation**  
+Proposed information system design using systems analysis, UML modeling, database architecture, security considerations, and AWS recommendations.
 
-Created an ER model, normalized database structure, and VBA-driven forms for user input and navigation.
-
----
-
-### Information System Design for La Fortaleza Community Development Corporation
-Proposed information system design focused on improving organizational data management and accessibility.
-
-**Technologies:** Systems Analysis, UML, Database Design, Cybersecurity
-
-Developed system requirements, database architecture, security considerations, and AWS infrastructure recommendations.
-
----
-
-### Air Quality Analysis of Wildfires
-Analyzed 2023 Canadian wildfire impacts using AQI and pollutant datasets.
-
-**Technologies:** Python, pandas, NumPy, matplotlib, seaborn
-
-Cleaned environmental data and created visualizations to identify air quality trends. 
+**Air Quality Analysis of Wildfires**  
+Analyzed 2023 Canadian wildfire air quality data using Python, pandas, NumPy, and visualization libraries to identify pollution trends.
 
 
 ## 📫 Contact
