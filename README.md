@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi, I'm Yuting! 
+
+I'm a Computer Information Systems student at Baruch College and a Break Through Tech AI Fellow interested in software engineering and artificial intelligence.
+
+I'm currently building projects involving machine learning, software development, databases, and systems design.
 
 <!--
 **yuting-0/yuting-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
