@@ -4,7 +4,7 @@ I'm a Computer Information Systems student at Baruch College and a Break Through
 
 I'm currently building projects involving machine learning, software development, databases, and systems design. 
 
-📫 Email: yutingwu7708@gmail.com 
+📫 Email: yutingwu7708@gmail.com  
 🔗 LinkedIn: (https://www.linkedin.com/in/yu-ting-wu-/) 
 
 <!--
