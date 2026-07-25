@@ -4,8 +4,8 @@ I'm a Computer Information Systems student at Baruch College and a Break Through
 
 I'm currently building projects involving machine learning, software development, databases, and systems design. 
 
-📫 Email: yutingwu7708@gmail.com  
-🔗 LinkedIn: (https://www.linkedin.com/in/yu-ting-wu-/) 
+- 📫 Email: yutingwu7708@gmail.com  
+- 🔗 LinkedIn: (https://www.linkedin.com/in/yu-ting-wu-/) 
 
 <!--
 **yuting-0/yuting-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
