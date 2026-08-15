@@ -20,13 +20,13 @@ Currently, I'm a Break Through Tech AI Fellow exploring machine learning, data a
 
 ## 🚀 Featured Projects 
 
-**School Music Club Database Application** 
+**School Music Club Database Application**  
 Relational database application for a simulated 100+ member organization using SQL, Microsoft Access, and VBA. Designed database structure, ER models, and user-facing forms. 
 
-**Information System Design for La Fortaleza Community Development Corporation** 
+**Information System Design for La Fortaleza Community Development Corporation**  
 Proposed information system design using systems analysis, UML modeling, database architecture, security considerations, and AWS recommendations. 
 
-**Air Quality Analysis of Wildfires** 
+**Air Quality Analysis of Wildfires**  
 Analyzed 2023 Canadian wildfire air quality data using Python, pandas, NumPy, and visualization libraries to identify pollution trends. 
 
 
