@@ -7,11 +7,11 @@ Currently, I'm a Break Through Tech AI Fellow exploring machine learning, data a
 
 ## 🛠️ Tech Stack 
 
-**Languages:** Python, SQL 
-**Data & Machine Learning:** pandas, NumPy, scikit-learn, matplotlib, seaborn, Jupyter 
-**Databases & Systems:** Relational Databases, Database Design, Microsoft Access, PostgreSQL, UML 
-**Tools:** Git, GitHub, APIs 
-**Interests:** Software Engineering, Artificial Intelligence, Machine Learning, Cybersecurity 
+**Languages:** Python, SQL   
+**Data & Machine Learning:** pandas, NumPy, scikit-learn, matplotlib, seaborn, Jupyter   
+**Databases & Systems:** Relational Databases, Database Design, Microsoft Access, PostgreSQL, UML   
+**Tools:** Git, GitHub, APIs   
+**Interests:** Software Engineering, Artificial Intelligence, Machine Learning, Cybersecurity   
 
 
 ## 🚀 Featured Projects 
