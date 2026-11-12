@@ -7,10 +7,10 @@ I'm currently a Break Through Tech AI Fellow, working on an industry project inv
 ## Featured Projects
 
 **Break Through Tech AI Studio | Identity Document Fraud Detection**  
-Developing an identity document fraud detection system as part of a Verizon industry project. Evaluated 13 binary classifiers using 295 forensic features, with most achieving 90%+ accuracy. Applied balanced noise augmentation to genuine and forged documents to reduce reliance on noise artifacts.
+Developing an identity document fraud detection system as part of a Verizon industry project using a 600-image IDNet subset. Evaluated 13 binary classifiers using 295 forensic features, with most achieving 90%+ accuracy. Applied balanced noise augmentation to genuine and forged documents to reduce model reliance on noise artifacts and improve focus on tampering indicators.
 
 **NYC Housing Data Warehouse**  
-Designing a data warehouse integrating NYC 311 housing complaints and HPD housing code violations. Conducting data profiling, assessing data quality, and developing dimensional models for housing trend analysis and KPI reporting.
+Profiled January 2026 samples of 99K+ NYC 311 housing complaints and 63K+ HPD violation records to assess data quality and identify trends. Designed a dimensional data warehouse with separate complaint and violation fact tables, shared location and date dimensions, and BBL-based geographic matching. Identified 6,957 shared BBL values, with 62.79% of 311 sample records sharing a BBL with the HPD sample. Moving into dbt development to build data transformation models.
 
 **Mashable News Popularity Prediction**  
 Analyzing the Mashable Online News dataset to investigate how article content, publishing timing, and topic history relate to social media shares. Developing machine learning models to predict article popularity.
