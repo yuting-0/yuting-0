@@ -1,32 +1,29 @@
 # Hi, I'm Yuting! 
 
-I'm a Computer Information Systems student at Baruch College interested in software engineering, artificial intelligence, and building technology that solves practical problems. 
+I'm a Computer Information Systems student at Baruch College interested in software engineering, artificial intelligence, and data analytics.
 
-Currently, I'm a Break Through Tech AI Fellow exploring machine learning, data analysis, and software development through technical projects and collaborative learning. 
+I'm currently a Break Through Tech AI Fellow, working on an industry project involving identity document fraud detection. I'm also working on data engineering and machine learning projects through my coursework.
 
+## Featured Projects
 
-## 🛠️ Tech Stack 
+**Break Through Tech AI Studio | Identity Document Fraud Detection**  
+Developing an identity document fraud detection system as part of a Verizon industry project. Evaluated 13 binary classifiers using 295 forensic features, with most achieving 90%+ accuracy. Applied balanced noise augmentation to genuine and forged documents to reduce reliance on noise artifacts.
 
-**Languages:** Python, SQL   
-**Data & Machine Learning:** pandas, NumPy, scikit-learn, matplotlib, seaborn, Jupyter   
-**Databases & Systems:** Relational Databases, Database Design, Microsoft Access, PostgreSQL, UML   
-**Tools:** Git, GitHub, APIs   
-**Interests:** Software Engineering, Artificial Intelligence, Machine Learning, Cybersecurity   
+**NYC Housing Data Warehouse**  
+Designing a data warehouse integrating NYC 311 housing complaints and HPD housing code violations. Conducting data profiling, assessing data quality, and developing dimensional models for housing trend analysis and KPI reporting.
 
+**Mashable News Popularity Prediction**  
+Analyzing the Mashable Online News dataset to investigate how article content, publishing timing, and topic history relate to social media shares. Developing machine learning models to predict article popularity.
 
-## 🚀 Featured Projects 
+## Technical Skills
 
-**School Music Club Database Application**  
-Relational database application for a simulated 100+ member organization using SQL, Microsoft Access, and VBA. Designed database structure, ER models, and user-facing forms. 
+**Languages:** Python, SQL  
+**Libraries:** pandas, NumPy, scikit-learn, matplotlib, seaborn  
+**Tools:** Jupyter Notebook, Google Colab, VS Code, PyCharm, Git, GitHub, OpenAI API  
+**Databases:** Microsoft Access, PostgreSQL  
+**Concepts:** Machine Learning, RAG, Prompt Engineering, Relational Database Design, Dimensional Modeling, ELT
 
-**Information System Design for La Fortaleza Community Development Corporation**  
-Proposed information system design using systems analysis, UML modeling, database architecture, security considerations, and AWS recommendations. 
-
-**Air Quality Analysis of Wildfires**  
-Analyzed 2023 Canadian wildfire air quality data using Python, pandas, NumPy, and visualization libraries to identify pollution trends. 
-
-
-## 📫 Contact 
+## Contact 
 - Email: yutingwu7708@gmail.com  
 - LinkedIn: (https://www.linkedin.com/in/yu-ting-wu-/) 
 
