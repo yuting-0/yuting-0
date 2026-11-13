@@ -1,8 +1,8 @@
 # Hi, I'm Yuting! 
 
-I'm a Computer Information Systems student at Baruch College interested in software engineering, artificial intelligence, and data analytics.
+I'm a Computer Information Systems student at Baruch College interested in software engineering and machine learning.
 
-I'm currently a Break Through Tech AI Fellow, working on an industry project involving identity document fraud detection. I'm also working on data engineering and machine learning projects through my coursework.
+I'm currently a Break Through Tech AI Fellow, working on an industry project involving identity document fraud detection. Through my coursework, I'm also building projects involving machine learning, data analysis, and software development.
 
 ## Featured Projects
 
